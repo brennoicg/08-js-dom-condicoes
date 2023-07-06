@@ -1,5 +1,5 @@
 # #08 - JS: DOM e Condições
 
-### Nome aluno(a)
+### Brenno
 
 [comment]: <> (Brenno Ferreira Cunha)
